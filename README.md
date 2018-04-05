@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Caitlin Roberts
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using Jquery to make changes to an application
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ccr16.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to access elements using Jquery syntax
+2. how to use jquery to respond to users requests 
+3. Jquery allows developers to use minimal codes
 
